@@ -6,6 +6,6 @@
 	</head>
 	<body>
 		<h1>{title}</h1>
-{text}
+{__content}
 	</body>
 </html>
